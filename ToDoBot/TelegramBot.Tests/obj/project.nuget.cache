@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "biV+gF2LZuM=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\DX\\Desktop\\Домашняя работа\\ToDoBot\\TelegramBot.Tests\\TelegramBot.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.\r\n  Произошла ошибка при отправке запроса.\r\n  Невозможно разрешить удаленное имя: 'api.nuget.org'",
+      "projectPath": "C:\\Users\\DX\\Desktop\\Домашняя работа\\ToDoBot\\TelegramBot.Tests\\TelegramBot.Tests.csproj",
+      "filePath": "C:\\Users\\DX\\Desktop\\Домашняя работа\\ToDoBot\\TelegramBot.Tests\\TelegramBot.Tests.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
